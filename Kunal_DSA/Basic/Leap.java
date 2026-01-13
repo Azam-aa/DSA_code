@@ -1,4 +1,4 @@
-package Kunal_DSA;
+package Kunal_DSA.Basic;
 import java.util.*;
 
 public class Leap{
